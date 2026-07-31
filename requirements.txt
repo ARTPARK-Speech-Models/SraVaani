@@ -1,0 +1,3 @@
+nemo_toolkit[asr,cu13]
+pytorch-lightning
+omegaconf

@@ -1,0 +1,20 @@
+# Model checkpoint — too large for GitHub (1.8 GB). Download via download_model.py
+*.nemo
+*.ckpt
+
+# Generated training/validation data
+data/
+prepare_data.py
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+experiments/*
+inference/*
+
+#
+venv/
